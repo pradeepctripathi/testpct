@@ -7,3 +7,4 @@ Adding a line on 03-Feb-2018 from the browser by login into git hub... intention
 
 Adding this line now on the same date from gitbash with an intention to push the same to remote branch and test git push command - PCT
 added feature1
+added feature2
